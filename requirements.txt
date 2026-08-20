@@ -1,0 +1,11 @@
+pandas
+numpy
+textblob
+spacey
+gensim
+transformers
+tensorflow
+torch
+openai
+ipykernel
+jupyter

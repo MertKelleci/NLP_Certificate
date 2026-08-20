@@ -1,0 +1,9 @@
+services:
+  NLP_ENV:
+    container_name: NLP_ENV
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nlp_env:latest
+    volumes:
+      - ./:/app
