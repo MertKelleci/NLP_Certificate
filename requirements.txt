@@ -1,10 +1,13 @@
 pandas
 numpy
 textblob
-spacey
+spacy
 gensim
 transformers
 tensorflow
+scikit-learn
+matplotlib
+seaborn
 torch
 openai
 ipykernel

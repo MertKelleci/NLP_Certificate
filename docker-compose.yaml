@@ -9,6 +9,6 @@ services:
       - "8888:8888"
     # To keep the container running and allow interactive sessions:
     # Not really needed since I'll be running Jupyter Notebook.
-    #stdin_open: true
+    # stdin_open: true
     volumes:
       - ./:/app
